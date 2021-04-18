@@ -1,0 +1,10 @@
+> Kun Windows Server 2008:iin ottaa VPN-yhteyden, toimii se niinkuin
+> pit��kin mutta samanaikaisesti koneen oma l�hiverkko ei en�� toimi
+> eik� koneella p��see samanaikaisesti esim s�hk�postiin tai
+> www-sivuille. Kun VPN-yhteyden katkaisee niin taas toimii netti. Eli
+> mist� kannattaisi alkaa etsim��n vikaa?
+
+Kyseess� ei todenn�k�isesti ole vika vaan ominaisuus.
+Ja t�ll� ominaisuudella suojellaan sit� serveri� silt� ett� siit� ty�aseman
+kautta p��sisi joku intternetist� sinne serverille.
+Eli ett� se ty�asema toimisi ik��nkuin reitittimen�.
